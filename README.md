@@ -86,4 +86,4 @@ Python · Google Gemini API (`google-genai`) · Streamlit · pytest · python-do
 
 ## 👩‍💻 Author
 
-**[Your Name]** · [LinkedIn](https://linkedin.com/in/yourname) · [GitHub](https://github.com/yourname)
+**[Preeti Mishra]** · [LinkedIn](https://www.linkedin.com/in/preeti-mishra-tha/) · [GitHub](https://github.com/PreetiMis)
